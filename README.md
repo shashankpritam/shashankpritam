@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashankpritam
 - 👀 I’m interested in computational biology.
-- 🌱 I’m currently learning Go, R and C++ computer languages.
+- 🌱 I’m currently learning Go and C++ computer languages.
 - 💞️ I’m looking to collaborate on bioinformatics projects.
 
 <!---
