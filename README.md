@@ -2,8 +2,8 @@
 - 👀 I’m interested in computational biology.
 - 🌱 I’m currently learning Go and Julia computer programming languages.
 - 💞️ I’m looking to collaborate on bioinformatics projects.
+<img src="[Chiku](https://github.com/shashankpritam/shashankpritam.github.io/blob/main/images/chiku/chiku.jpg)" width="20" height="20" />
 
-![Chiku](https://github.com/shashankpritam/shashankpritam.github.io/blob/main/images/chiku/chiku.jpg =100x20)
 
 <!---
 shashankpritam/shashankpritam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
