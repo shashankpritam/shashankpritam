@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230">
+  <img src="https://github.com/shashankpritam/shashankpritam/assets/15816591/e95fc862-72ff-4620-bae3-3950f52e9f85" width="230">
   <br><br>
   <samp>
-    Hello, World! I'm <strong>Shashank Pritam</strong> :wave:
+    Namaste, folks! I am <strong>Shashank Pritam</strong>! :wave:
     <br><br>
-    I'm a Computational Biologist :man_scientist: navigating the intersection of biology and computer science.
+    As a Computational Biologist :man_scientist:, I am threading the line between biology and computer science, making sense of life's code!
     <br>
-    Currently on a journey of exploring new languages and paradigms, honing my skills in Go and Julia :rocket:
+    Presently, I am learning Go and Julia, expanding my horizons one language at a time :rocket:
   </samp>
 </p>
 
 ---
 
 <p align="center"> 
-  <i> Interested in the confluence of life and computational sciences, always looking forward to collaborate on intriguing bioinformatics projects. </i>
+  <i> If you are as fascinated by the fusion of life and computational sciences as I am, let's collaborate on some exciting bioinformatics projects! </i>
 </p>
 
 ---
@@ -28,9 +28,10 @@
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white">
 </p>
 
+
 ---
 
-Feel free to explore my repositories and connect with me on GitHub!
+Feel free to dig into my repositories and connect with me on GitHub!
 
 <!---
 shashankpritam/shashankpritam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
