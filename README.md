@@ -11,10 +11,24 @@
 
 ### 🛠️ Technical Skills
 
-- Languages: Python, R, Go
-- Machine Learning/Deep Learning: TensorFlow, Keras, Scikit-learn
-- Computational Biology: BioPython, GROMACS, UCSF Chimera, PyMol
-- Familiar with: Structural Biology, RNA processes, Numerical and Spatial Simulations
+
+- Machine Learning/Deep Learning:
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+    <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+- Computational Biology: 
+
+    <img src="https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/GROMACS-008000?style=for-the-badge">
+    <img src="https://img.shields.io/badge/UCSF_Chimera-4B0082?style=for-the-badge">
+    <img src="https://img.shields.io/badge/PyMol-0000FF?style=for-the-badge">
+
+- Familiar with: 
+
+    <img src="https://img.shields.io/badge/Structural_Biology-4B0082?style=for-the-badge">
+    <img src="https://img.shields.io/badge/RNA_processes-0000FF?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Numerical_and_Spatial_Simulations-8B008B?style=for-the-badge">
 
 ---
 
