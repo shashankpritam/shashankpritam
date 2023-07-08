@@ -1,25 +1,36 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/shashankpritam/shashankpritam/assets/15816591/e95fc862-72ff-4620-bae3-3950f52e9f85" width="230">
-  <br><br>
+</p>
 
-<div align="center">
-   "Cat Run Cycle" by Iron-Zing on DeviantArt. </
-</div>
+<p align="left" style="font-size:10px">
+   "Cat Run Cycle" by Iron-Zing on DeviantArt. 
+</p>
 
+<h4>👋 Namaste, folks! My name is <strong>Shashank Pritam</strong>!</h4>
 
-
-  Namaste, folks! My name is <strong>Shashank Pritam</strong>! :wave:
-  <br><br>
-
-<div align="center">
-  <h3> I'm a computational biologist, unravelling the mysteries of genes and codes. </h3>
-</div>
+<h3>👨‍🔬 I'm a computational biologist at heart, swimming in the deep sea of genes and codes. </h3>
 
 - 👀 The fascinating overlap of biology and computer science is my playground. 
 - 🌱 At present, I'm adding Go and Julia to my programming toolkit.
 - 💞️ Always eager to team up on captivating bioinformatics projects.
 
+---
 
+### 🎯 Objective
+
+As a Ph.D. student in the Biological Sciences department at North Dakota State University, I am keen to apply my computational and machine learning skills to contribute to the advancement of RNA-based therapies and foster innovation in the field.
+
+### 🎓 Education
+
+- PhD in Biological Sciences, North Dakota State University, Fargo, ND (Expected May 2026)
+- BS-MS in Biological Sciences, Indian Institute of Science Education and Research, Pune, India (May 2022)
+
+### 🛠️ Technical Skills
+
+- Languages: Python, R, Go
+- Machine Learning/Deep Learning: TensorFlow, Keras, Scikit-learn
+- Computational Biology: BioPython, GROMACS, UCSF Chimera, PyMol
+- Familiar with: Structural Biology, RNA processes, Numerical and Spatial Simulations
 
 ---
 
