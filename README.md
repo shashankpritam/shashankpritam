@@ -1,5 +1,6 @@
 
-![cat_atom_assembly](https://github.com/shashankpritam/shashankpritam/assets/15816591/cf943063-3e39-448a-9b08-fb0838c46c81)
+<img src="https://example.com/path/to/your/image.jpg" alt="cat_atom_assembly" width="300" height="200">
+
 
 
 <h3>👋 Namaste, folks! My name is <strong>Shashank Pritam</strong>!</h4>
