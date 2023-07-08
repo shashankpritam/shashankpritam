@@ -1,25 +1,13 @@
+<h3>👋 Namaste! My name is <strong>Shashank Pritam</strong>!</h4>
 
-<img src="https://github.com/shashankpritam/shashankpritam/assets/15816591/cf943063-3e39-448a-9b08-fb0838c46c81" alt="Chiku" width="300" height="200">
 
 
-<h3>👋 Namaste, folks! My name is <strong>Shashank Pritam</strong>!</h4>
-
-<h4>👨‍🔬 I'm a computational biologist at heart, swimming in the deep sea of genes and codes. </h3>
-
-- 👀 The fascinating overlap of biology and computer science is my playground. 
-- 🌱 At present, I'm adding Go and Julia to my programming toolkit.
-- 💞️ Always eager to team up on captivating bioinformatics projects.
+- 👨‍🔬 I'm a computational biologist.
+- 🌱 At present, I'm learning Go and Julia programming languages.
+- 💞️ I am always eager to team up on cool bioinformatics projects.
 
 ---
 
-### 🎯 Objective
-
-As a Ph.D. student in the Biological Sciences department at North Dakota State University, I am keen to apply my computational and machine learning skills to contribute to the advancement of RNA-based therapies and foster innovation in the field.
-
-### 🎓 Education
-
-- PhD in Biological Sciences, North Dakota State University, Fargo, ND (Expected May 2026)
-- BS-MS in Biological Sciences, Indian Institute of Science Education and Research, Pune, India (May 2022)
 
 ### 🛠️ Technical Skills
 
