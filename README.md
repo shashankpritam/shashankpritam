@@ -1,10 +1,6 @@
-<p align="left">
-  <img src="https://github.com/shashankpritam/shashankpritam/assets/15816591/e95fc862-72ff-4620-bae3-3950f52e9f85">
-</p>
 
-<p align="left" style="font-size:10px">
-   "Cat Run Cycle" by Iron-Zing on DeviantArt. 
-</p>
+![cat_atom_assembly](https://github.com/shashankpritam/shashankpritam/assets/15816591/cf943063-3e39-448a-9b08-fb0838c46c81)
+
 
 <h3>👋 Namaste, folks! My name is <strong>Shashank Pritam</strong>!</h4>
 
