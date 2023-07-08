@@ -3,10 +3,11 @@
   <br><br>
 
 <div align="center">
-  <em> "Cat Run Cycle" by Iron-Zing on DeviantArt. </em>
+   "Cat Run Cycle" by Iron-Zing on DeviantArt. </
 </div>
 
-<samp>
+
+
   Namaste, folks! My name is <strong>Shashank Pritam</strong>! :wave:
   <br><br>
 
@@ -18,7 +19,6 @@
 - 🌱 At present, I'm adding Go and Julia to my programming toolkit.
 - 💞️ Always eager to team up on captivating bioinformatics projects.
 
-</samp>
 
 
 ---
