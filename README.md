@@ -1,34 +1,36 @@
-# Hello there, I'm Shashank Pritam! 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230">
+  <br><br>
+  <samp>
+    Hello, World! I'm <strong>Shashank Pritam</strong> :wave:
+    <br><br>
+    I'm a Computational Biologist :man_scientist: navigating the intersection of biology and computer science.
+    <br>
+    Currently on a journey of exploring new languages and paradigms, honing my skills in Go and Julia :rocket:
+  </samp>
+</p>
 
-![cat_run_cycle_by_iron_zing_d2qzala](https://github.com/shashankpritam/shashankpritam/assets/15816591/e95fc862-72ff-4620-bae3-3950f52e9f85)
+---
 
-<div align="center">
-  <em> "Cat Run Cycle" by Iron-Zing on DeviantArt. </em>
-</div>
+<p align="center"> 
+  <i> Interested in the confluence of life and computational sciences, always looking forward to collaborate on intriguing bioinformatics projects. </i>
+</p>
 
-<div align="center">
-  <h3> A computational biologist navigating the exciting world of code and genes. </h3>
-</div>
+---
 
-- 👀 My primary interest lies in the intersection of biology and computer science. 
-- 🌱 Currently, I am expanding my programming skills by learning Go and Julia.
-- 💞️ Looking for collaboration opportunities on intriguing bioinformatics projects.
+### 🛠️ Languages & Tools 
 
-<br/>
-
-## 🛠️ Languages and Tools 
-
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white">
-</div>
+</p>
 
-<br/>
+---
 
-Feel free to connect with me or check out my repositories!
+Feel free to explore my repositories and connect with me on GitHub!
 
 <!---
 shashankpritam/shashankpritam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
