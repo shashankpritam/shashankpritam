@@ -1,7 +1,5 @@
 <h3 align="center">👋 Namaste, I'm a Computational Biologist! </h3>
 
-<p align="center">💞️ Always eager to collaborate on intriguing bioinformatics projects.</p>
-
 ---
 
 <h3 align="center">🛠️ Technical Skills </h3>
@@ -40,7 +38,7 @@
 ---
 
 <p align="center">
-  Feel free to dive into my repositories and connect with me on GitHub!
+  Feel free to dive into my repositories and connect with me on GitHub I am always eager to collaborate on intriguing bioinformatics projects!
 </p>
 
 
