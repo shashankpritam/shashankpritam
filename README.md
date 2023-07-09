@@ -2,15 +2,15 @@
 
 🛠️ Technical Skills
 
-Machine Learning/Deep Learning: TensorFlow, Keras, Scikit-learn
+* Machine Learning/Deep Learning: TensorFlow, Keras, Scikit-learn
 
-Computational Biology: BioPython, GROMACS, UCSF Chimera, PyMol
+* Computational Biology: BioPython, GROMACS, UCSF Chimera, PyMol
 
-Familiar with: Structural Biology, RNA processes, Numerical and Spatial Simulations
+* Familiar with: Structural Biology, RNA processes, Numerical and Spatial Simulations
 
 🛠️ Languages & Tools
 
-Python, R, Go, Julia
+* Python, R, Go, Julia
 
 Feel free to dive into my repositories and connect with me on GitHub. I am always eager to collaborate on intriguing bioinformatics projects!
 
