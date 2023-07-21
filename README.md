@@ -13,8 +13,11 @@ As a PhD student, I explore biological systems through computational modeling an
 ## 🛠️ Languages & Tools
 
 I am skilled in programming with:
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 
 
