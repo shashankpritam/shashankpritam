@@ -12,7 +12,7 @@ As a PhD student, I explore biological systems through computational modeling an
 
 ## 🛠️ Languages & Tools
 
-I am skilled in programming with: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white), ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) and, ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white).
+I am skilled in programming with: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) and ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white).
 
 
 Always eager to delve deeper into computational biology, I am more than happy to connect with fellow researchers and enthusiasts. Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on some intriguing bioinformatics projects!
