@@ -19,7 +19,8 @@ I like working with these programming languages and tools:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-- ![Mermaid](https://img.shields.io/badge/-Mermaid-1F425F.svg)
+- ![Markdown]![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
+
 
 
 I'm passionate about open-source and love collaborating on intriguing bioinformatics projects. Feel free to explore my repositories and don't hesitate to reach out if you'd like to join forces on a project!
