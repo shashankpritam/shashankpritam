@@ -19,7 +19,7 @@ I like working with these programming languages and tools:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-- ![Markdown]![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
+- ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
 
 
 
