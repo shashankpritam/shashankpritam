@@ -1,4 +1,4 @@
-# 👋 Namaste, I am a Computational Biologist!
+# 🙏 Namaste, I am a Computational Biologist!
 
 I'm currently pursuing my PhD, where I explore the mysteries of life through the lens of computational modeling and simulations. My goal is to bring together my passion for biology with my knack for programming, helping to advance the exciting field of computational biology.
 
