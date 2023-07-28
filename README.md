@@ -1,16 +1,11 @@
-Computational Biology PhD Candidate!
+Computational Biology PhD Candidate! Fusing biology and programming.
 
-Fusing biology and programming.
-
-| Interests    | Tools/Concepts                              |
+|  Languages   |                                             |
 |--------------|---------------------------------------------|
-| ML/DL        | TensorFlow, Keras, Scikit-learn             |
-| Comp. Bio    | BioPython, GROMACS, UCSF Chimera, PyMol     |
-| Languages    | Python, R, Go,                              |
+| Computer     | Python, R, Go                               |
+| Human        | Magahi, Hindi, English                      |
 
 ---
-
-Find me on [LinkedIn](https://www.linkedin.com/in/shashank-pritam/) or [Twitter](https://twitter.com/fan_of_gpu), or shoot me an email.
 
 <!--
 shashankpritam/shashankpritam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
