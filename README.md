@@ -1,4 +1,4 @@
-Computational Biology PhD Candidate! Fusing biology and programming.
+Computational biology enthusiast.
 
 |  Languages   |                                             |
 |--------------|---------------------------------------------|
