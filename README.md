@@ -1,4 +1,4 @@
-Computational biology enthusiast.
+Computational biologist.
 
 |  Languages   |                                             |
 |--------------|---------------------------------------------|
