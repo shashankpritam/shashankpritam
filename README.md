@@ -1,4 +1,4 @@
-Computational biologist.
+Computational biologist. 📝💻
 
 |  Languages   |                                             |
 |--------------|---------------------------------------------|
