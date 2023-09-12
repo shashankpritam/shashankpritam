@@ -1,10 +1,5 @@
 Computational biologist. 📝💻
 
-|  Languages   |                                             |
-|--------------|---------------------------------------------|
-| Computer     | Python, R, Go                               |
-| Human        | Magahi, Hindi, English                      |
-
 ---
 
 <!--
