@@ -1,4 +1,6 @@
-Computational biologist. 📝💻
+---
+Computational biologist.
+---
 
 
 
